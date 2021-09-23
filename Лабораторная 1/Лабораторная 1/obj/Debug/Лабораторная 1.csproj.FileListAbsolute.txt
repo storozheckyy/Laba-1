@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\bin\Debug\Лабораторная 1.exe.config
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\bin\Debug\Лабораторная 1.exe
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\bin\Debug\Лабораторная 1.pdb
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\obj\Debug\Лабораторная 1.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\obj\Debug\Лабораторная_1.Form1.resources
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\obj\Debug\Лабораторная_1.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\obj\Debug\Лабораторная 1.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\obj\Debug\Лабораторная 1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\obj\Debug\Лабораторная 1.exe
+C:\Users\Дмитрий\source\repos\Лабораторная 1\Лабораторная 1\obj\Debug\Лабораторная 1.pdb
